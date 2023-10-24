@@ -17,7 +17,6 @@
 ## Инструменты
 - Java 17
 - PostgreSQL
-- Hibernate 5.6
 - JDBC
 - Quartz-Scheduler
 - Jsoup
@@ -25,15 +24,3 @@
 - JUnit 5
 - Mockito
 - Maven
-- Lombok
-- Git
-
-## Сборка и запуск<br>
-- для сборки `mvn install`
-- для запуска `java -jar target/tracker.jar`
-
-## Как использовать<br>
-Использовать для создания, удаления и прочих взаимодействий с заявками
-
-## Контакты для связи<br>
-<a href="https://t.me/OvercomingJunk" target="blank"><img src="https://img.icons8.com/clouds/50/000000/telegram-app.png"/></a>
